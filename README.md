@@ -1,4 +1,4 @@
-#Integrantes
+# Integrantes
 Adrian Rojas Arias - B96789
 Jafet Picado Quirós - C05977
 Javier Donato Hidalgo - B92650
