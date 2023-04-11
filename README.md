@@ -1,3 +1,8 @@
+#Integrantes
+Adrian Rojas Arias - B96789
+Jafet Picado Quirós - C05977
+Javier Donato Hidalgo - B92650
+
 # Panjpar
 Projecto para diseño de software - juego Panjpar
 
